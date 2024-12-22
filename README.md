@@ -35,13 +35,13 @@ This project aims to develop a machine learning model to detect fraudulent credi
 
 ## How to Run 🏃‍♂️
 1. Clone the repository:  
-   `git clone https://github.com/your-username/credit-card-fraud-detection.git`
+   `git clone https://github.com/git-shashank-hp/Structured-ML-Credit-Card-Fraud-Detection-Project.git`
 
 2. Install the required dependencies:  
    `pip install -r requirements.txt`
 
 3. Run the Jupyter/Colab notebook:  
-   Open the notebook `fraud_detection.ipynb` to start working on the project.
+   Open `Structured ML Credit Card Fraud Detection Project.ipynb` to start working on the project.
 
 ## License 📄
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details. ⚖️
