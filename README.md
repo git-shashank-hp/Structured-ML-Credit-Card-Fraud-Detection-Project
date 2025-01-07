@@ -3,7 +3,7 @@ This project aims to develop a machine learning model to detect fraudulent credi
 
 ![image](https://github.com/user-attachments/assets/8a4af119-e93c-4442-92a0-0d5fa588139f) 
 
-# Credit Card Fraud Detection 💳🚨
+# Credit Card Fraud Detection 💳🚨 
 
 ## Project Overview
 This project aims to develop a machine learning model to detect fraudulent credit card transactions. The dataset contains transaction details, including customer information, merchant details, and the transaction amount, labeled as either fraudulent or legitimate. The goal is to build an effective fraud detection system to minimize financial losses for banks and improve customer security. 🛡️
